@@ -15,6 +15,10 @@ This project is a tribute page dedicated to **Mother Teresa**, celebrating her l
 - **HTML5**: For the structure and content of the webpage.
 - **CSS3**: For styling and layout, ensuring a clean, readable design.
 
+## Screenshots
+![image](https://github.com/user-attachments/assets/57ce0664-4a03-49d6-b819-e8b4ee08ee36)
+
+![image](https://github.com/user-attachments/assets/aee3fb09-a723-4c7d-931a-d277aa5da5a8)
 
 
 ## Future Improvements
@@ -26,6 +30,5 @@ This project is a tribute page dedicated to **Mother Teresa**, celebrating her l
 
 This project is open-source and available under the **MIT License**.
 
----
-
-This README covers the basics and provides clear instructions for anyone who wants to view or contribute to your project. Let me know if you'd like to add anything else!
+## Hosted link
+https://neha-meharin.github.io/tribute-page/
