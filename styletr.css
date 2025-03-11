@@ -1,0 +1,122 @@
+
+#image{
+    max-width:100%;
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    height:auto;
+    display:block;
+   
+    margin: 0 auto;
+    
+    
+  }
+  #img-container{
+    background-color:white;
+    padding:25px;
+  }
+  a{
+    text-decoration:none;
+  }
+  #main{
+    background-color:#eee;
+    padding:50px 25px;
+  
+  }
+  #title{
+    font-size:50px;
+  }
+  #title,#small{
+    font-family: Georgia, serif;
+    text-align: center;
+  }
+  #small{
+    font-size:13px;
+  }
+  #img-caption{
+    font-size:13px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+      
+  }
+  #tribute-info,ul{
+    font-size:15px;
+    font-family: "Roboto", sans-serif;
+    list-style-type:none;
+    font-weight: 100;
+  }
+  
+  pre{
+        font-style: italic;
+        font-size:19px;
+        padding:30px;
+  }
+  #last,a{
+    font-size:10px;
+  }
+  section{
+    padding:20px;
+  }
